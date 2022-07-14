@@ -1,6 +1,7 @@
 YOLOV4-(30k) 模型实现 (YOLOV4-(30k) model implementation)
 ---
 2022 嵌入式芯片与系统设计竞赛 开源仓库 By HERO_ZERO 2022.7.14
+原始网址 https://github.com/Zero0Hero/yolo-30k-stm32
 
 ## 背景
 YOLO作为目标检测的典型网络，在互联网上似乎很难找到从网络搭建到量化再到部署的仓库，这也是我做这个项目的目的。  
