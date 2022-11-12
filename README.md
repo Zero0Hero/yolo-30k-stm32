@@ -16,6 +16,9 @@ YOLO作为目标检测的典型网络，在互联网上似乎很难找到从网�
 * UDP_IMG_Transmit: UDP 传输图像 上位机
 * UART_IMG_Transmit: UART 传输图像 上位机
 
+## 注意
+在nets/yolov4_tiny.py 125行左右，涉及yolo模型更改，原模型为注释（同样涉及到loss.py52行，以及模型量化、x-cube-ai函数），如要进行更改，请统一
+
 
 ---
 Open Source By HERO_ZERO 2022.7.14
