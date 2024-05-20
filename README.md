@@ -1,7 +1,7 @@
 YOLOV4-(30k) 模型实现 (YOLOV4-(30k) model implementation)
 ---
 By HERO_ZERO CAST NJUPT 2022.7.14  
-原始网址 https://github.com/Zero0Hero/yolo-30k-stm32
+原始网址 https://github.com/Zero0Hero/yolo-30k-stm32  
 2024.5.14：工程文件已上传，7z文件，没记错的话是CubeIDE工程
 
 ## 背景
