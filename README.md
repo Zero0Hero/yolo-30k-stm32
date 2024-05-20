@@ -2,6 +2,7 @@ YOLOV4-(30k) 模型实现 (YOLOV4-(30k) model implementation)
 ---
 By HERO_ZERO CAST NJUPT 2022.7.14  
 原始网址 https://github.com/Zero0Hero/yolo-30k-stm32
+2024.5.14：工程文件已上传，7z文件，没记错的话是CubeIDE工程
 
 ## 背景
 YOLO作为目标检测的典型网络，在互联网上似乎很难找到从网络搭建到量化再到部署的仓库，这也是我做这个项目的目的。  
